@@ -1,107 +1,26 @@
 // Suggested mapcycle.txt for TP with rounds and other rounded modes
 //  "\minplayers\4\maxplayers\8"
 //testedit5
+y2_nuke
+ahl_tube
+ahl_square
+xbounce
+x-fire
+ignoranz
+ahl_extraneous
+xex_dm3
+ahl_brokenarrowb1
+drug
+ahl_serres
+xenergy
+wdhq
+woodbury_drive
+wwa1
 ahl_colmcorp
 ahl_dtheworld
-ahl_brokenarrowb1
-ahl_extraneous
-ahl_serres
 ahl_snackshop
-ahl_square
 ahl_stocked
 ahl_traingun
-ahl_tube
-ahl_postal_lms "\maxplayers\3"
-lambda_bunker_lms "\maxplayers\3"
-ahl_bankdoom_lms "\maxplayers\3"
-stalkyard_lms "\maxplayers\3"
-snark_pit_lms "\maxplayers\3"
-ahl_smalld_lms "\maxplayers\3"
-ahl_unforgiven_lms "\maxplayers\3"
-ahl_tgx2_lms "maxplayers\3"
-undertow_lms "\maxplayers\3"
-mcdonalds_lms "\maxplayers\3"
-ahl_plextrains_lms "\maxplayers\3"
-ts_hammertime_lms "\maxplayers\3"
-fy_desert_lms "\maxplayers\3"
-ts_mathar_lms "\maxplayers\3"
-invade_lms "\maxplayers\3"
-ahl_loungesky_lms "\maxplayers\3"
-ts_hate_lms "\maxplayers\3"
-library_lms "\maxplayers\3"
-//ahl_dukeitout_lms "\maxplayers\3"
-//ts_rundown_lms "\maxplayers\3"
-ahl_mallwing "\minplayers\4"
-//rats "\minplayers\4"
-ahl_postal "\maxplayers\6"
-stalkyard "\minplayers\4"
-ahl_hkheat "\minplayers\4"
-ahl_museum "\minplayers\5"
-datacore "\minplayers\4"
-ahl_beemer "\minplayers\5"
-ahl_calypso "\minplayers\4"
-library "\minplayers\4"
-ahl_california "\minplayers\4"
-ahl_nocredit "\minplayers\6"
-eap_clubsexy "\maxplayers\4"
-ahl_loungesky "\minplayers\4\maxplayers\8"
-fy_desert "\minplayers\4\maxplayers\8"
-ahl_bankdoom "\minplayers\4"
-stalkyard "\minplayers\4"
-undertow "\minplayers\4\maxplayers\8"
-ahl_casagrande "\minplayers\4"
-ts_mathar "\maxplayers\6"
-ahl_smalld "\maxplayers\6"
-ahl_plexhbraid "\minplayers\5"
-ahl_unforgiven "\minplayers\4"
-backfire "\minplayers\4"
-ahl_astorage "\minplayers\7"
-ahl_clinic "\minplayers\7"
-ahl_killington "\minplayers\4"
-ahl_tgx2 "\minplayers\4"
-ahl_museum "\minplayers\5"
-frenzy "\minplayers\4"
-op_dm_hkalley "\minplayers\5"
-ahl_engholm "\minplayers\4"
-mcdonalds "\minplayers\6"
-ahl_postal "\minplayers\4"
-ahl_villa "\minplayers\4"
-ahl_snowmax "\minplayers\4"
-stalkyard "\minplayers\4"
-ahl_calypso "\minplayers\4"
-ahl_hkheat "\minplayers\4"
-ahl_bananamans "\minplayers\4"
-ahl_napoli "\minplayers\4"
-ts_hate "\minplayers\4"
-ahl_mallwing "\minplayers\4"
-ahl_streets "\minplayers\6"
-ts_hammertime "\minplayers\4\maxplayers\8"
-
-
-
-
-//skydock "\minplayers\6"
-//ahl_dock_light "\minplayers\4\maxplayers\8"
-//beach3  "\minplayers\4\maxplayers\8"
-//library "\minplayers\4\maxplayers\6"
-//library_lms "\maxplayers\3"
-//snark_pit "\minplayers\4\maxplayers\6" (broken)
-//ahl_smalld "\minplayers\4\maxplayers\6" (broken)
-//ahl_plextrains "\minplayers\4\maxplayers\8"
-//ahl_monorail_tdm "\minplayers\8"
-//wdhq "\minplayers\4\maxplayers\8" broken
-//ahl_dukeitout_lms "\maxplayers\3"
-//adv_crossfire "\minplayers\4\maxplayers\8" 
-//datacore "\minplayers\4\maxplayers\8" broken
-//invade "\minplayers\4\maxplayers\8"broken
-//ts_rundown "\minplayers\4\maxplayers\8"
-//ts_rundown_lms "\maxplayers\3"
-
-
-
-
-
-
 
 
 
