@@ -9,9 +9,6 @@ x-fire
 ignoranz
 xex_dm3
 ahl_serres
-ahl_extraneous
-ahl_brokenarrowb1
-drug
 xenergy
 wwa1
 ahl_colmcorp
